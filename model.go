@@ -1,9 +1,8 @@
 package names
 
-
-
-var MyName
+var MyName string
 
 func init() {
   MyName = "Bartholomew"
+
 }
