@@ -2,6 +2,6 @@ package names
 
 var MyName = "Bartholomew"
 
-func GetName() {
+func GetName() string {
   return MyName
 }
