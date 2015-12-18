@@ -1,4 +1,4 @@
 package names
 
- MyName := "bartholomew"
+ var MyName string = "bartholomew"
 
