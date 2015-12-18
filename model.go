@@ -1,4 +1,4 @@
 package names
 
-var MyName string = "bartholomew"
+var MyName = "bartholomew"
 
