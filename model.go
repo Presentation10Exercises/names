@@ -1,4 +1,9 @@
 package names
 
-var MyName = "bartholomew"
 
+
+var MyName
+
+func init() {
+  MyName = "Bartholomew"
+}
