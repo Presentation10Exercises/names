@@ -2,12 +2,14 @@ package names
 
 import "fmt"
 
+var MyName string = "Bartholomew"
+
 func init() {
-  MyName := "something"
+  //MyName := "something"
   fmt.Println(MyName)
 }
 
 func GetName() string {
-  MyName := "something else"
+  //MyName := "something else"
   return MyName
 }
