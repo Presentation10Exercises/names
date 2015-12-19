@@ -2,7 +2,7 @@ package names
 
 import "fmt"
 
-var MyName = "Bartholomew"
+var MyName string = "Bartholomew"
 
 func init() {
   fmt.Println(MyName)
