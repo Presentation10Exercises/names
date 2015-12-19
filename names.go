@@ -1,15 +1,15 @@
 package names
 
-import "fmt"
+//import "fmt"
 
 var MyName string = "Bartholomew"
 
-func init() {
-  //MyName := "something"
-  fmt.Println(MyName)
-}
+//func init() {
+//MyName := "something"
+//fmt.Println(MyName)
+//}
 
 func GetName() string {
-  //MyName := "something else"
-  return MyName
+//MyName := "something else"
+return MyName
 }
